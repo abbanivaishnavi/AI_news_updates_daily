@@ -11,13 +11,13 @@ An n8n workflow that gathers AI-related news, uses Google Gemini to select and s
 5. **Basic LLM Chain + Google Gemini** — selects the top five stories and creates an HTML digest with summaries, key takeaways, and source links.
 6. **Gmail** — sends the generated digest by email.
 
-## Workflow preview
+## 📸 Sample Email Output
 
-![TOP AI NEWS DAILY workflow](screenshots/workflow.jpeg)
+![Sample AI News Email](screenshots/sample-email.jpeg)
 
-## Example email output
+## 🔄 Workflow Screenshot
 
-![Example daily AI news email](screenshots/sample-email.jpeg)
+![n8n Workflow](screenshots/workflow.jpeg)
 
 ## Tools used
 
